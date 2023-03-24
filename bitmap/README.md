@@ -8,3 +8,5 @@ A bitmap is **an array of bits that specify the color of each pixel** in a recta
 
 
 https://learn.microsoft.com/en-us/dotnet/desktop/winforms/advanced/types-of-bitmaps?view=netframeworkdesktop-4.8
+
+https://en.wikipedia.org/wiki/Bitmap
