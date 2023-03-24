@@ -8,6 +8,8 @@ In 3D computer graphics, **normal mapping**, or Dot3 bump mapping, is a texture 
 
 
 
+![](./StandardShaderNormalMapAircraftSurface.jpg)
+
 ### ref
 https://en.wikipedia.org/wiki/Normal_mapping
 
