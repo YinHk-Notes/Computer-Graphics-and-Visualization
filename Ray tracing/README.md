@@ -12,3 +12,5 @@ Ray tracing is a rendering technique that can produce incredibly realistic light
 
 ### ref
 https://developer.nvidia.com/rtx/ray-tracing
+
+https://www.techradar.com/news/ray-tracing
