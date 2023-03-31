@@ -9,6 +9,7 @@ Shaders have evolved to perform a variety of specialized functions in computer g
 
 A program used to **render different pixels**. Shaders in games are used when **detailing shadows**, **lighting**, **texture gradients, and more**.
 
+電腦圖學領域中，著色器（英語：shader）是一種電腦程式，原本用於進行圖像的濃淡處理（計算圖像中的光照、亮度、顏色等），但近來，它也被用於完成很多不同領域的工作，比如處理CG特效、進行與濃淡處理無關的影片後期處理、甚至用於一些與電腦圖學無關的其它領域。
 
 ### What Can Shaders Do?
 Sometimes games use simple shaders; other times, they may seem extremely complicated. The finished product of a shader program is often impressive, showing in-game assets or environments with proper lighting and shading applied to them.
