@@ -33,3 +33,7 @@ https://en.wikipedia.org/wiki/Shader
 
 Writing a Shader in OpenGL \
 https://www.youtube.com/watch?v=71BLZwRGUJE
+
+A Beginner's Guide to Coding Graphics Shaders \
+https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313
+
