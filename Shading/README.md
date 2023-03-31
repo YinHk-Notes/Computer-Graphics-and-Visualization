@@ -31,6 +31,8 @@ https://learnopengl.com/Getting-started/Shaders
 
 https://en.wikipedia.org/wiki/Shader
 
+https://www.youtube.com/watch?v=uQG0SWv5lbw&list=PL78XDi0TS4lFlOVKsNC6LR4sCQhetKJqs
+
 Writing a Shader in OpenGL \
 https://www.youtube.com/watch?v=71BLZwRGUJE
 
