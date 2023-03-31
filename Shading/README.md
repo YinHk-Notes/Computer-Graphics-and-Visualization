@@ -40,7 +40,7 @@ Shaders bypass hard coding and allow for customizable, programmable shading in g
 - Environment reflections
 
 ### Programming
-The language in which shaders are programmed depends on the target environment. The official **OpenGL** and **OpenGL ES** shading language is **OpenGL Shading Language**, also known as **GLSL**, and the official **Direct3D** shading language is High Level Shader Language, also known as **HLSL**.
+The language in which shaders are programmed **depends on the target environment**. The official **OpenGL** and **OpenGL ES** shading language is **OpenGL Shading Language**, also known as **GLSL**, and the official **Direct3D** shading language is High Level Shader Language, also known as **HLSL**.
 
 ### GUI shader editors
 
