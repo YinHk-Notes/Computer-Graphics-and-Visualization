@@ -1,4 +1,9 @@
 ## Normal Mapping
+
+Normal maps give your object texture and depth by changing the direction light is reflected off your 3D model. These are also known as Bump Maps because they make your surface look bumpy. Normal maps don’t actually change the geometry of your 3D model so you can’t use them for extreme depth, but they are great to give realistic textures while keeping the polygon count low.
+
+
+
 **Normal maps** are a type of **Bump Map**. They are a special kind of texture that allow you to add surface detail such as **bumps**, **grooves**, and **scratches** to a model which **catch the light** as if they are represented by real geometry.
 
 In 3D computer graphics, **normal mapping**, or Dot3 bump mapping, is a texture mapping technique used for faking the lighting of bumps and dents – an implementation of bump mapping. It is used to add details without using more polygons. A common use of this technique is to greatly enhance the appearance and details of a low polygon model by generating a normal map from a high polygon model or height map.
