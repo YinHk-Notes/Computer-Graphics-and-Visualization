@@ -7,7 +7,7 @@ In computer graphics, a **shader** is a **computer program** that calculates the
 Shaders have evolved to perform a variety of specialized functions in computer graphics special effects and video post-processing, as well as general-purpose computing on graphics processing units.
 
 
-A program used to render different pixels. Shaders in games are used when detailing shadows, lighting, texture gradients, and more.
+A program used to **render different pixels**. Shaders in games are used when **detailing shadows**, **lighting**, **texture gradients, and more**.
 
 
 ### What Can Shaders Do?
