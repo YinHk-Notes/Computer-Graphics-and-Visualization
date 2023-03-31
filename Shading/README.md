@@ -20,5 +20,7 @@ Shaders bypass hard coding and allow for customizable, programmable shading in g
 
 
 ### ref
+https://learnopengl.com/Getting-started/Shaders
+
 Writing a Shader in OpenGL \
 https://www.youtube.com/watch?v=71BLZwRGUJE
