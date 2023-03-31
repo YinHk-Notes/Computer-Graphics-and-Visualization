@@ -42,6 +42,9 @@ Shaders bypass hard coding and allow for customizable, programmable shading in g
 ### Programming
 The language in which shaders are programmed depends on the target environment. The official **OpenGL** and **OpenGL ES** shading language is **OpenGL Shading Language**, also known as **GLSL**, and the official **Direct3D** shading language is High Level Shader Language, also known as **HLSL**.
 
+### GUI shader editors
+
+Modern video game development platforms such as Unity, Unreal Engine and Godot increasingly include node-based editors that can create shaders without the need for actual code; the user is instead presented with a directed graph of connected nodes that allow users to direct various textures, maps, and mathematical functions into output values like the diffuse color, the specular color and intensity, roughness/metalness, height, normal, and so on. Automatic compilation then turns the graph into an actual, compiled shader.
 
 
 ### ref
