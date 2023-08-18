@@ -1,6 +1,6 @@
 ## Normal Mapping
 
-Normal maps give your object texture and depth by **changing the direction light is reflected off your 3D model**. These are also known as **Bump Maps** because they** make your surface look bumpy**. 
+Normal maps give your object texture and depth by **changing the direction light is reflected off your 3D model**. These are also known as **Bump Maps** because they **make your surface look bumpy**. 
 
 **Normal maps don’t actually change the geometry of your 3D model** so you can’t use them for extreme depth, but they are great to **give realistic textures while keeping the polygon count low**.
 
