@@ -36,6 +36,13 @@ Displacement maps are grayscale textures you map to objects to **create true sur
 > 置換貼圖是使用高度圖將經過紋理化的表面上實際幾何點位置**沿著表面法線根據保存在紋理中的數值進行移位**的技術
 
 
+凹凸贴图和置换贴图均可为材质添加逼真的三维效果，无需创建几何图形。例如，砖墙材质定义中包含的凹凸贴图会在渲染图像中产生逼真的砌砖，无需对砖和灰泥进行建模。
+
+但是在几何图形的边缘，凹凸贴图并不逼真。在这些位置，会显示底层几何图形的线，不会显示凹凸贴图。另一方面，置换贴图首先模拟用于创建置换贴图的几何图形，然后显示置换贴图几何图形（代替底层元素）。下图清楚地显示了这一点，左图应用了凹凸贴图，而右图则采用了置换贴图。
+
+
+
+
 ### ref 
 https://www.pluralsight.com/blog/film-games/bump-normal-and-displacement-maps
 
@@ -44,3 +51,6 @@ https://zh.wikipedia.org/wiki/%E4%BD%8D%E7%A7%BB%E8%B4%B4%E5%9B%BE
 https://3dcoat.com/cn/articles/article/displacement-map-in-3dcoat/
 
 https://help.autodesk.com/view/MAYACRE/CHS/?guid=GUID-E7A03E4E-8C9A-4B62-8218-28FC063A82AB
+
+https://docs.bentley.com/LiveContent/web/MicroStation%20Help-v13/zh-cn/GUID-FA4B22F6-B6DB-E42D-297D-C9086D7ECA9C.html
+
