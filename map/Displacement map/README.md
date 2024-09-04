@@ -41,6 +41,10 @@ Displacement maps are grayscale textures you map to objects to **create true sur
 但是在几何图形的边缘，凹凸贴图并不逼真。在这些位置，会显示底层几何图形的线，不会显示凹凸贴图。另一方面，置换贴图首先模拟用于创建置换贴图的几何图形，然后显示置换贴图几何图形（代替底层元素）。下图清楚地显示了这一点，左图应用了凹凸贴图，而右图则采用了置换贴图。
 
 
+![](./GUID-CE155A43-62AC-8C26-9A5B-B5E5E8E0F470-low.jpg)
+
+凹凸贴图（左）和置换贴图（右）对比
+
 
 
 ### ref 
