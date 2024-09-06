@@ -9,6 +9,10 @@ Displacement maps are grayscale textures you map to objects to **create true sur
 > Now, here’s the not so great thing about displacement maps. Creating all that additional geometry in real time is extremely difficult and hard on your system. Because of this, most 3D applications calculate final displacement results at render time. 
 > In comparison to bump or normal maps, a displacement map will also add significant time to your renders. As a result of this additional geometry, it’s hard to beat the results of a displacement map. Since the surface is actually modified, the silhouette reflects the additional geometry. You should always weigh the expense of a displacement map against the added benefit before deciding to use one.
 
+
+Displacement mapping is a technique for adding geometric detail to surfaces at render time. In contrast with bump mapping, which works by just changing the surface normal to create the illusion of surface detail, displacement mapping modifies the surface itself. Here is an example of the same object rendered with bump mapping and with displacement mapping. Notice the round outline of the sphere and its shadow in the case of bump mapping, and the deformed outline produced by the displacement. The displacement map in this case is a Gradient Ramp (procedural) map; the 3D mapping method was used.
+
+
 “置换”(Displacement)贴图是**灰度纹理**，可将它们**映射到对象以在其他平面对象上创建出真实的表面起伏**（仰角和凹地）。
 
 使用“置换”(Displacement)贴图，**凹地和仰角会变成对象的几何体的一部分**，从而会**更改拓扑**，这与“凹凸”(Bump)贴图不同，凹凸贴图**仅创建表面的错觉**。
@@ -58,3 +62,4 @@ https://help.autodesk.com/view/MAYACRE/CHS/?guid=GUID-E7A03E4E-8C9A-4B62-8218-28
 
 https://docs.bentley.com/LiveContent/web/MicroStation%20Help-v13/zh-cn/GUID-FA4B22F6-B6DB-E42D-297D-C9086D7ECA9C.html
 
+https://docs.chaos.com/display/THEORY/Displacement+Mapping
