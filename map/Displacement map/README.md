@@ -12,6 +12,8 @@ Displacement maps are grayscale textures you map to objects to **create true sur
 
 Displacement mapping is a technique for adding geometric detail to surfaces at render time. In contrast with bump mapping, which works by just changing the surface normal to create the illusion of surface detail, displacement mapping modifies the surface itself. Here is an example of the same object rendered with bump mapping and with displacement mapping. Notice the round outline of the sphere and its shadow in the case of bump mapping, and the deformed outline produced by the displacement. The displacement map in this case is a Gradient Ramp (procedural) map; the 3D mapping method was used.
 
+![](./image(1).png)
+
 
 “置换”(Displacement)贴图是**灰度纹理**，可将它们**映射到对象以在其他平面对象上创建出真实的表面起伏**（仰角和凹地）。
 
