@@ -1,4 +1,4 @@
-## Perlin Noise
+## Perlin Noise(雜訊)
 A Procedural Generation Algorithm
 
 Perlin noise is a popular procedural generation algorithm invented by Ken Perlin. It can be used to generate things like textures and terrain procedurally, meaning without them being manually made by an artist or designer. The algorithm can have 1 or more dimensions, which is basically the number of inputs it gets.
@@ -17,7 +17,11 @@ Perlin噪聲（Perlin noise，又稱為柏林噪聲）指由Ken Perlin發明的�
 
 ### ref
 https://rtouti.github.io/graphics/perlin-noise-algorithm \
-https://zh.wikipedia.org/zh-tw/Perlin%E5%99%AA%E5%A3%B0
+https://zh.wikipedia.org/zh-tw/Perlin%E5%99%AA%E5%A3%B0 \
+https://chengkehan.github.io/PerlinNoise.html 
+
+How to Use Perlin Noise in Your Games(生成方法以及代码) \
+http://devmag.org.za/2009/04/25/perlin-noise/
 
 
 
