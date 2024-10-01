@@ -11,7 +11,7 @@ Fresnel Shaders in general allow reflection, specularity, and other attributes t
 
 The Fresnel Effect was first documented by the French physicist Augustin-Jean Fresnel (1788-1827), who advanced the wave theory of light through a study of how light was transmitted and propagated by different objects.
 
-
+![](./Principle-of-the-Fresnel-effect-the-amount-of-reflection-on-a-reflective-surface-depends.png)
 
 ### ref 
 https://www.youtube.com/watch?v=WmGrbEepFG4 \
