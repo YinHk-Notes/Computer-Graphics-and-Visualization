@@ -2,6 +2,8 @@
 
 Displacement maps **physically displace (as the name implies) the mesh to which they are applied**. In order for detail to be created based on a displacement map, usually the mesh **must be subdivided or tessellated** so real geometry is created. 
 
+The Displacement map is used to **displace the surface along the surface normal**.
+
 The great thing about displacement maps is that they can actually be either baked from a high resolution model or painted by hand. Like a bump map, a displacement map consists of **grayscale values**.
 
 Displacement maps are grayscale textures you map to objects to **create true surface relief (elevations and depressions) on an otherwise flat object**.
