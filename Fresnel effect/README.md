@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=WmGrbEepFG4 \
 https://www.dorian-iten.com/fresnel/ \
 https://www.3drender.com/glossary/fresneleffect.htm \
 http://vraymasters.cn/magazine/understanding-glossy-fresnel/ \
-https://learn.microsoft.com/zh-tw/azure/remote-rendering/overview/features/fresnel-effect
+https://learn.microsoft.com/zh-tw/azure/remote-rendering/overview/features/fresnel-effect \
+https://www.researchgate.net/figure/Principle-of-the-Fresnel-effect-the-amount-of-reflection-on-a-reflective-surface-depends_fig3_319178578
+
+
 
 
